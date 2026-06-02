@@ -9,3 +9,8 @@ You can directly run this project in your localhost.
 or you can fork this repo to practice this project as well.
 
 Happy coding!! :)
+
+## Live Preview
+```
+https://zoyanaaz.github.io/Mini-Projects-JS/
+```
